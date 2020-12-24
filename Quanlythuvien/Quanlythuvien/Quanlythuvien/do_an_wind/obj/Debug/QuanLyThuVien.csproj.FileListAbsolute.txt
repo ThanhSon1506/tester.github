@@ -1,0 +1,60 @@
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\Report1.rdlc
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe.config
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.pdb
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\vi\do_an_wind.resources.dll
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BAL.dll
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BEL.dll
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\DAL.dll
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BAL.pdb
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BEL.pdb
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\DAL.pdb
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDangKy.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDangNhap.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDocGia.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMuonTraSach.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhanVien.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhaXuatBan.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormQLSach.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormTacGia.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormTheLoai.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.Properties.Resources.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.vi.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\vi\do_an_wind.resources.dll
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.exe
+d:\Desktop\kiem_thu_phan_men\tester.github\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.pdb
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\do_an_wind.FormDangKy.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\do_an_wind.FormDangNhap.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\do_an_wind.FormDocGia.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\do_an_wind.FormMenu.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\do_an_wind.FormMuonTraSach.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\do_an_wind.FormNhanVien.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\do_an_wind.FormNhaXuatBan.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\do_an_wind.FormQLSach.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\do_an_wind.FormTacGia.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\do_an_wind.FormTheLoai.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\do_an_wind.FormMenu.vi.resources
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\bin\Debug\Report1.rdlc
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\bin\Debug\QuanLyThuVien.exe.config
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\bin\Debug\QuanLyThuVien.exe
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\bin\Debug\QuanLyThuVien.pdb
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\bin\Debug\vi\QuanLyThuVien.resources.dll
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\bin\Debug\BAL.dll
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\bin\Debug\BEL.dll
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\bin\Debug\DAL.dll
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\bin\Debug\BAL.pdb
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\bin\Debug\BEL.pdb
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\bin\Debug\DAL.pdb
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\vi\QuanLyThuVien.resources.dll
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\QuanLyThuVien.exe
+d:\Desktop\kiem_thu_phan_men\tester.github\Quanlythuvien\Quanlythuvien\Quanlythuvien\do_an_wind\obj\Debug\QuanLyThuVien.pdb
